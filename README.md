@@ -150,9 +150,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 - Sugerir novas funcionalidades
 - Enviar pull requests
 
-## 📧 Contato
-
-Para dúvidas ou sugestões, abra uma issue no repositório.
 
 ---
 
